@@ -25,7 +25,7 @@ The Apple App Store and Google Play links use the official badges from the Apple
 
 ## Screenshot
 
-![Footer Apps section](/screenshot/image.png)
+![Footer Apps section](/screenshot/screenshot_bug_001.png)
 
 ## Notes
 
