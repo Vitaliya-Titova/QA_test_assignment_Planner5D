@@ -7,9 +7,9 @@
 | **Date**        | 12.11.2026                                           |
 | **Priority**    | Medium                                               |
 
-## Steps to reproduce
+## Steps
 
-1. Open https://planner5d.com/contests in a desktop browser
+1. Open https://planner5d.com in a desktop browser
 2. Scroll to the footer
 3. Check the "Apps:" section
 
@@ -19,9 +19,9 @@ The Apple and Google Play links are displayed as small mobile-sized logos instea
 
 ## Expected result
 
-The Apple App Store and Google Play links use the official badges from the Apple and Google Play brand guidelines, in a size suitable for desktop.
-https://developer.apple.com/app-store/marketing/guidelines/
-https://partnermarketinghub.withgoogle.com/brands/google-play/google-play/lockups-icons-badges/#badges
+The Apple App Store and Google Play links use the official badges from the Apple and Google Play brand guidelines, in a size suitable for desktop
+<br>https://developer.apple.com/app-store/marketing/guidelines/
+<br>https://partnermarketinghub.withgoogle.com/brands/google-play/google-play/lockups-icons-badges/#badges
 
 ## Screenshot
 
