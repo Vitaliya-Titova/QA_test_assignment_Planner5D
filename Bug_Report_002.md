@@ -11,22 +11,22 @@
 ## Steps to reproduce
 
 1. Open https://planner5d.com/gallery/all
-2. Change site language to any language other than English using language switcher
+2. Change site language to any language other than English using the language switcher
 3. Check "Sort by" label above the gallery
 4. Open "All categories" dropdown and check "Favorites" item
 
 ## Actual result
 
-"Sort by" label and the "Favorites" item in the category list are not localized and remain in English, while the other dropdown options and the rest of the interface are translated
+"Sort by" label and "Favorites" item in the category list are not localized and remain in English, while the other dropdown options and the rest of the interface are translated
 
 ## Expected result
 
-"Sort by" label and the "Favorites" item are localized to the selected language, like the other interface elements
+"Sort by" label and "Favorites" item are localized to the selected language, like the other interface elements
 
 ## Screenshot
 
 ![Sort by and Favorites are not localized](screenshot/screenshot_bug_002.png)
 
-## Notes¶
+## Notes
 
 Reproduced in all available languages except English
